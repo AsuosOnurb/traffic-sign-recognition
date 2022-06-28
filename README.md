@@ -25,7 +25,7 @@ The `data` directory contain all of the used training and testing images.
 
 Besides the training and test data, the notebooks included can be used to create new pre-processed images by applying various filters (Sobel, Unsharp Mask, LHE, etc...).
 
-**The download of this repo can take some time and a bit of storage. If you'd prefer, you can also just download the source from the second [branch]().**
+**The download of this repo can take some time and a bit of storage. If you'd prefer, you can also just download the source from the second [branch](https://github.com/AsuosOnurb/traffic-sign-recognition/tree/source_only).**
 
 ## CNNs
 
